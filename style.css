@@ -1,0 +1,84 @@
+.sam{
+    width: 100%;
+    height: 600px;
+    background-color: rgba(220, 20, 130, 0.844);
+    margin:auto;
+    display: flex;
+    margin-top: 20px;
+     
+
+}
+.top{
+    width: 98%;
+    height: 70px;
+    background-color: grey;
+    margin: auto;
+    margin: right 20px;
+    margin-top: 30px
+    
+}
+
+.tab1{
+    width: 23.5%;
+    height: 400px;
+    background-color: rgb(250, 247, 247);
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 30px;
+    
+}
+
+.tab2{
+    width: 23.5%;
+    height: 400px;
+    background-color: rgb(202, 192, 197);
+    margin-top: 20px;
+    margin-left: 20px;
+     border-radius: 30px;
+}
+.tab3{
+    width: 23.5%;
+    height: 400px;
+    background-color: rgb(0, 255, 106);
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+.tab4{
+    width: 23.5%;
+    height: 400px;
+    background-color: rgb(255, 251, 0);
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-radius: 30px;
+}
+
+.logo img{
+    width:30px ;
+    height:30px ;
+    border-radius:  50%;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: solid 1px white;
+}
+
+.yt{
+    color: red;
+    margin-left: 45px;
+    margin-top: -48px;
+}
+
+.pf img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -50px;
+    margin-left: 1100px;
+    
+} 
+.web{
+    width:40px ;
+    height:40px;
+    background-color: blueviolet;
+}
